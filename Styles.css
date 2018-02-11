@@ -1,0 +1,13 @@
+header {
+    background-color: #ed9f6d;
+    color: azure;
+    padding: 20px;
+    border-radius: 15px 15px 0 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 30px;
+	background-color: #e6caa2;
+	color: black;
+}
